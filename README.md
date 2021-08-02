@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rez1chy
+- 👋 Hi, I’m Rezwan Chowdhury
 - 👀 I’m interested in Web Development, Flutter and everything that interests me!
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on your web projects.
