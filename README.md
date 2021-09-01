@@ -1,4 +1,4 @@
-- Hi, I’m Rezwan Chowdhury
+- Hello, I’m Rezwan Chowdhury.
 - Interested in Web Development, Flutter and always looking forward to learning new things!
 - I’m currently learning Flutter.
 - Looking forward to work for your organization on Web and Flutter projects.
