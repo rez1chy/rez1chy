@@ -3,7 +3,7 @@
 - Always looking forward to learning new things!
 - I love competitive programming. Have a passion for solving critical/lengthy problems.
 - Punctual, friendly and a very active team player.
-- Looking forward to work for your mext iOS project.
+- Looking forward to work for your next iOS project.
 - Any query? Please mail me at rezwanchowdhury0@gmail.com
 
 <!---
