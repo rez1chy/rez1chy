@@ -1,9 +1,9 @@
 - Hello, I’m Rezwan Chowdhury.
-- Interested in Web Development, Flutter and always looking forward to learning new things!
-- I’m currently learning Flutter.
-- I love competitive programming. I have a passion for solving critical/lengthy problems.
+- An iOS Developer with high ambition.
+- Always looking forward to learning new things!
+- I love competitive programming. Have a passion for solving critical/lengthy problems.
 - Punctual, friendly and a very active team player.
-- Looking forward to work for your organization on Web and Flutter projects.
+- Looking forward to work for your mext iOS project.
 - Any query? Please mail me at rezwanchowdhury0@gmail.com
 
 <!---
